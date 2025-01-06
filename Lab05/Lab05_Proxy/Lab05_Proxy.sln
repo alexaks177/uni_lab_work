@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab05_Proxy", "Lab05_Proxy\Lab05_Proxy.pyproj", "{B5B44CE3-F7E1-432C-B3B6-77E2D9C109CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B44CE3-F7E1-432C-B3B6-77E2D9C109CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B44CE3-F7E1-432C-B3B6-77E2D9C109CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C682F53-8851-4AEB-AA58-703FA0D39632}
+	EndGlobalSection
+EndGlobal
